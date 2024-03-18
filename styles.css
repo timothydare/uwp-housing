@@ -248,6 +248,13 @@ Housing
     line-height: 2;
 }
 /*
+Recommendations
+*/
+.recc__td {
+    display: flex;
+    flex-direction: column;
+}
+/*
 Footer
 */
 footer {
